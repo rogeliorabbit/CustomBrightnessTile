@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Custom Brightness Tile</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- NAV  -->
+    <string name="nav_home">Custom Brightness Tile</string>
+
+    <!-- HOME -->
+    <string name="home_title">Custom Brightness Tile</string>
+    <string name="home_ed_tile_title_hint">Brightness Tile Title</string>
+    <string name="home_sb_tile_title">Brightness Level</string>
+
+    <!-- Tile -->
+    <string name="tile_label">Brightness Tile</string>
+    <string name="tile_service_active">ON</string>
+    <string name="tile_service_inactive">OFF</string>
+
+</resources>
